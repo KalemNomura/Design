@@ -9,7 +9,7 @@ Después de instalarlo, comprueba que funciona con node -v y npm -v.
 
 Luego descarga el proyecto con git clone (url del repo) y entra en la carpeta con cd nombre-del-proyecto.
 
-Después instala las dependencias con npm install.
+Después instala las dependencias con "npm install".
 
-Para ejecutar el proyecto usa npm run dev y abre el enlace que aparece en la terminal
+Para ejecutar el proyecto usa "npm run dev" y abre el enlace que aparece en la terminal
  
