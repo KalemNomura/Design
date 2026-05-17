@@ -1,3 +1,5 @@
+#Proyecto R3#
+
 Este proyecto está hecho con React, TypeScript y TailwindCSS.
 
 Usa React Hooks como useState, manejo de errores en imágenes con onError y tipos de TypeScript para las props de imágenes.
