@@ -13,3 +13,4 @@ Después instala las dependencias con "npm install".
 
 Para ejecutar el proyecto usa "npm run dev" y abre el enlace que aparece en la terminal
  
+*Importante: Cuando hagamos el npm install porfavor mirar que estemos dentro de la carpeta Design en la terminial, en caso de no entender como se hace este procedimiento porfavor avisarme inmediatamente*
