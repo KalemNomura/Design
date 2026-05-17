@@ -120,7 +120,7 @@ export default function App() {
           <div className="flex items-center justify-between">
             <div className="flex items-center gap-2">
               <Compass className="w-6 h-6" />
-              <h1 className="tracking-tight">Lectura</h1>
+              <h1 className="tracking-tight">Kitsune Books</h1>
             </div>
             <div className="flex items-center gap-2">
               <ThemeToggle />
